@@ -28,7 +28,7 @@ public class Employee {
     public void setSalary(int salary) {
         this.salary = salary;
     }
-
+   
     public void showInformation() {
         System.out.println("이름:" + name + "연봉:" + salary);
     }
